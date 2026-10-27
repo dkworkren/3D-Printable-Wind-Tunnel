@@ -14,6 +14,7 @@ Modifications
 - You can adjust the airflow height from the windpipe near the water tank
 
 Pictures of the 3D Model
+
 <img width="492" height="266" alt="image" src="https://github.com/user-attachments/assets/115f133f-c545-46a2-973f-c83b00a74311" />
 <img width="517" height="322" alt="image" src="https://github.com/user-attachments/assets/f7711c5a-0d40-44cb-a6e1-c5c78f14d507" />
 <img width="467" height="320" alt="image" src="https://github.com/user-attachments/assets/4cd019af-19d1-47c2-805b-0ab6928dcfa9" />
