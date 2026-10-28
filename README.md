@@ -10,8 +10,12 @@ I have always been addicted to diecasts since I was young. Ever since I started 
 2. Put the diecast inside of the tunnel (Through the top)
 3. Flip the switch and check it out in action
 
-Modifications
+Modifications & Specs
 - You can adjust the airflow height from the windpipe near the water tank
+- Height = 106mm
+- Length = 340mm
+- Width = 84mm
+- Material = PETG/PLA
 
 Pictures of the 3D Model
 
