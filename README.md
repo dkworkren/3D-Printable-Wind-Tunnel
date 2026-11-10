@@ -6,17 +6,10 @@ A simple 3D printable wind tunnel that can be printed in a Bambu A1 Printer
 I have always been addicted to diecasts since I was young. Ever since I started to "doomscroll" on Instagram/Tiktok, lots of smaller scaled wind tunnels appeared in my FYP but they cost a lot (around $100 USD) and they mostly ship for the United States. Me being from Indonesia, I can't really buy those kinds of things because it will cost a LOT ($100 USD can feed someone for a whole month). Not to mention the difficulty of International shipping laws that I have to obey to get my item. I decided to try and make on myself and this Github repo is about that miniature wind tunnel that I've always wanted as a kid.
 
 ## How to use it
-1. Input a small amount of water in the water tank (The one in the back)
+1. Input an incense in the designated spot (The one in the back)
 2. Put the diecast inside of the tunnel (Through the top)
 3. Flip the switch and check it out in action
-
-Modifications & Specs
-- You can adjust the airflow height from the windpipe near the water tank 
-- Height = 106mm
-- Length = 340mm
-- Width = 84mm
-- Material = PETG/PLA
-PS: the size might differ and not be 100% accurate
+4. adjust the potentiometer for speed
 
 Demo Video: (Link coming soon)
 
